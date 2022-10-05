@@ -1,0 +1,46 @@
+h1{
+    font-size: larger;
+    margin-bottom: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+@font-face{
+    font-family: my font;
+    src: url(font-family: 'Gemunu Libre', sans-serif;);
+}
+
+.a{
+    font-family: 'Gemunu Libre', sans-serif;
+  }
+
+  .b{
+    font-family: 'Montserrat', sans-serif;
+  }
+  .c{
+    font-family: 'Roboto', sans-serif;
+
+  }
+  .d{
+    font-family: 'Open Sans', sans-serif;
+  }
+  .e{
+    font-family: 'Abyssinica SIL', serif;
+  }
+  .f{
+    font-family: 'Lato', sans-serif;
+
+  }
+  .g{
+    font-family: 'Poppins', sans-serif;
+
+  }
+  .h{
+    font-family: 'Inter Tight', sans-serif;
+
+  }
+  .i{
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  .j{
+    font-family: 'Dancing Script', cursive;
+  }
